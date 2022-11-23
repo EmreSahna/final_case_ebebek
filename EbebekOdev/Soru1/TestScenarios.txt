@@ -1,0 +1,4 @@
+Sepet sayfasındaki işlemler için işlevsel test senaryoları:
+1 -> isDiscountCuponValid = Girilen indirim kuponunun geçerli olup olmadığını test eder.
+2 -> isProductCountLowerThanStockCountInCart = Sepetteki ürünün adedi, stoktakini geçip geçmediğini test eder.
+3 -> isTrashIconVisibleWhenProductCountIsOneInCart = Sepetteki ürün adedi 1 olduğunda silme iconunun olup olmadığını test eder.
